@@ -19,7 +19,7 @@ Currently, I'm associated with ``smartData Enterprises (India) Ltd.``, as a ``Le
 
 My Last Project :
 
-- [__SeeMe Dating App__]([https://play.google.com/store/apps/details?id=com.fitradio](https://play.google.com/store/apps/details?id=seeme.connect)) 💪 - SeeMe is the solution to everything wrong with dating apps, turning real-life encounters into potential matches while giving you full control over date planning!.
+- [SeeMe Dating App]([https://play.google.com/store/apps/details?id=com.fitradio](https://play.google.com/store/apps/details?id=seeme.connect)) 💪 - SeeMe is the solution to everything wrong with dating apps, turning real-life encounters into potential matches while giving you full control over date planning!.
 
 
 
