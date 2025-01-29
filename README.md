@@ -1,5 +1,6 @@
 ## 🙋‍♂️ About Me :
 Hello! 👋 I'm Gagandeep Singh, 
+
 Results-driven Lead Developer with over 10 years of experience in mobile application development, software architecture, and leading development teams. Proven track record of architecting and delivering high-quality mobile apps using Kotlin. Strong focus on performance, scalability, and maintaining best practices.
 
 You can Check out my demo projects on [GitHub](https://github.com/gagansmartdata?tab=repositories), which can help you create high-quality applications by following best practices. Feel free to ask me anything about Android!
